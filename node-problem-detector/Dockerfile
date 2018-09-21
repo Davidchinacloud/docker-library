@@ -1,4 +1,4 @@
-FROM gcr.io/google-containers/node-problem-detector:v0.5.0
+FROM k8s.gcr.io/node-problem-detector:v0.2
 
 
 
